@@ -1,6 +1,7 @@
 ---
 title: "A demonstation of my code"
 format: html
+embed-resources: true
 ---
 
 I wrote this sweet code to work with the `nycflights13` data:
